@@ -1,0 +1,44 @@
+[
+  {
+    "figure": "figures/0728-slide16-image0.png",
+    "source_deck": "slides/0728.pptx",
+    "source_slide": 16,
+    "source_image": "ppt/media/image44.png",
+    "sha256": "34488db09823cd4aaedf95ab97f50885f962d82c3bb626746b09ea03379f774b"
+  },
+  {
+    "figure": "figures/0728-slide16-image1.png",
+    "source_deck": "slides/0728.pptx",
+    "source_slide": 16,
+    "source_image": "ppt/media/image45.png",
+    "sha256": "4d2eb72742d2ac416ec91b3d3df8ff9bab91fbc574af432c7472cb00a956a678"
+  },
+  {
+    "figure": "figures/0728-slide16-image2.png",
+    "source_deck": "slides/0728.pptx",
+    "source_slide": 16,
+    "source_image": "ppt/media/image46.png",
+    "sha256": "caa63127499361087220e440198e4f4fc50e5d245ba53a35653b07d6af641f9a"
+  },
+  {
+    "figure": "figures/defense-slide18-image1.png",
+    "source_deck": "defense.pptx",
+    "source_slide": 18,
+    "source_image": "ppt/media/image49.png",
+    "sha256": "c10594e815d68539984696ae329c220110fb3064b505fe1c67c31df2a91f6c04"
+  },
+  {
+    "figure": "figures/defense-slide19-image0.png",
+    "source_deck": "defense.pptx",
+    "source_slide": 19,
+    "source_image": "ppt/media/image51.png",
+    "sha256": "2e6fd1c477faa687c619658760e6a3566f70a7d711dd38aab7af206cec9583e4"
+  },
+  {
+    "figure": "figures/defense-slide19-image1.png",
+    "source_deck": "defense.pptx",
+    "source_slide": 19,
+    "source_image": "ppt/media/image52.png",
+    "sha256": "c118c4a6c3da892495acecf11382e2d17180e25f4e5b21f5f7818ff5497fabd3"
+  }
+]
